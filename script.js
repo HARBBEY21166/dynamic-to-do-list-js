@@ -35,6 +35,5 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  // Add an event listener to document for the DOMContentLoaded event
   document.addEventListener('DOMContentLoaded', addTask);
 });
